@@ -10,36 +10,6 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 2,
-        "Station_name": "AP 9 FM",
-        "City": "Hyderabad",
-        "Frequency": "NA",
-        "Language": "Telugu",
-        "st_img": "http://ap9fm.com/wp-content/uploads/ap9fm_logo_195px.png",
-        "st_url": "http://s2.voscast.com:10704/",
-        "type" : "Entertimement"
-    },
-    {
-        "Id": 3,
-        "Station_name": "Teluguone Radio",
-        "City": "Hyderabad",
-        "Frequency": "NA",
-        "Language": "Telugu",
-        "st_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWP2rW7tgAEdk33mbzM-gAW86xn3CXgk0eAFESXgadBAHgDXh",
-        "st_url": "http://173.203.133.187:9700/",
-        "type" : "Entertimement"
-    },
-    {
-        "Id": 94,
-        "Station_name": "Radio Mirchi Telugu Hits",
-        "City": "Hyderabad",
-        "Frequency": "NA",
-        "Language": "Telugu",
-        "st_img": "https://onlineradiofm.in/assets/image/radio/180/teluguhits.jpg",
-        "st_url": "https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/index_1_a-p.m3u8?sd=10&rebase=on",
-        "type" : "Entertimement"
-    },
-    {
         "Id": 5,
         "Station_name": "Kokila radio",
         "City": "Hyderabad",
@@ -97,16 +67,6 @@
         "Language": "Telugu",
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIRTelugu.png",
         "st_url": "http://51.15.208.163:8081/radio/airtelugu/icecast.audio",
-        "type" : "Entertimement"
-    },
-    {
-        "Id": 96,
-        "Station_name": "Mirchi Love Telugu Radio",
-        "City": "Hyderabad",
-        "Frequency": "104 FM",
-        "Language": "Telugu",
-        "st_img": "https://onlineradiofm.in/assets/image/radio/180/Mirchi-Love.jpg",
-        "st_url": "https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/index_50_a-p.m3u8?sd=10&rebase=on",
         "type" : "Entertimement"
     },
     {
