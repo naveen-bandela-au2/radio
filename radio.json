@@ -21,16 +21,6 @@
     },
     {
         "Id": 6,
-        "Station_name": "Radio Myind Media",
-        "City": "Hyderabad",
-        "Frequency": "NA",
-        "Language": "Telugu",
-        "st_img": "https://onlineradiofm.in/assets/image/radio/180/myindmedia.png",
-        "st_url": "http://52.3.202.102:8000/;stream.mp3/1",
-        "type" : "NEWS"
-    },
-    {
-        "Id": 6,
         "Station_name": "School Radio",
         "City": "Hyderabad",
         "Frequency": "NA",
