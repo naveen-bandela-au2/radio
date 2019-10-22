@@ -174,7 +174,7 @@
         "Station_name": "All India Radio Air Akashvani",
         "City": "Delhi",
         "Frequency": "NA",
-        "Language": "Hindi,Tamil,Telugu,English,Marathi",
+        "Language": "Hindi,English",
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
         "st_url": "http://51.15.208.163:8081/radio/air-akashvani/icecast.audio",
         "type" : "Entertainment"
