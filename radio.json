@@ -1,5 +1,6 @@
-[
-    {
+[   
+
+     {
         "Id": 1,
         "Station_name": "Radio mirchi",
         "City": "Mumbai",
@@ -10,7 +11,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 5,
+        "Id": 2,
         "Station_name": "Kokila radio",
         "City": "Hyderabad",
         "Frequency": "NA",
@@ -20,7 +21,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 3,
         "Station_name": "School Radio",
         "City": "Hyderabad",
         "Frequency": "NA",
@@ -30,7 +31,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 4,
         "Station_name": "Telugu NRI Radio",
         "City": "Hyderabad",
         "Frequency": "NA",
@@ -40,7 +41,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 5,
         "Station_name": "All India Radio Air Akashvani",
         "City": "Hyderabad",
         "Frequency": "NA",
@@ -60,7 +61,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 7,
         "Station_name": "All India Radio Air Kannada",
         "City": "Bangalore",
         "Frequency": "NA",
@@ -70,7 +71,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 8,
         "Station_name": "Radio City Kannada",
         "City": "Bangalore",
         "Frequency": "NA",
@@ -80,7 +81,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 9,
         "Station_name": "Radio Madhur Tarang",
         "City": "Bangalore",
         "Frequency": "NA",
@@ -90,7 +91,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 10,
         "Station_name": "Raagam Radio",
         "City": "Bangalore",
         "Frequency": "100.1 FM",
@@ -100,7 +101,7 @@
         "type" : "Entertimement"
     },
     {
-        "Id": 6,
+        "Id": 11,
         "Station_name": "Namm Radio",
         "City": "Bangalore",
         "Frequency": "NA",
@@ -138,7 +139,209 @@
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/radio-gitmit.jpg",
         "st_url": "http://ample-02.radiojar.com/vpzg366xaseuv",
         "type" : "Entertimement"
+    },
+    {
+        "Id": 1,
+        "Station_name": "Air FM Gold",
+        "City": "Delhi",
+        "Frequency": "106.4 FM",
+        "Language": "Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/fmgold1001.jpg",
+        "st_url": "http://51.15.208.163:8081/radio/fmgold/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Air FM Rainbow",
+        "City": "Delhi",
+        "Frequency": "101.3 FM",
+        "Language": "Hindi,English",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
+        "st_url": "http://51.15.208.163:8081/radio/fmrainbow/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "93.5 Red FM",
+        "City": "Delhi",
+        "Frequency": "93.5 FM",
+        "Language": "Hindi,Telugu,Kannada",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/red-fm15.jpg",
+        "st_url": "http://14013.live.streamtheworld.com/CKYRFM_SC",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "All India Radio Air Akashvani",
+        "City": "Delhi",
+        "Frequency": "NA",
+        "Language": "Hindi,Tamil,Telugu,English,Marathi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
+        "st_url": "http://51.15.208.163:8081/radio/air-akashvani/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "All India Radio Air Urdu",
+        "City": "Delhi",
+        "Frequency": "NA",
+        "Language": "Urdu",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIR-Urdu-Serve.png",
+        "st_url": "http://51.15.208.163:8081/radio/airurdu/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "All India Radio Air Marathi",
+        "City": "Delhi",
+        "Frequency": "NA",
+        "Language": "Marathi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIRMarathi.jpg",
+        "st_url": "http://51.15.208.163:8081/radio/airmarathi/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "92.7 BIG FM",
+        "City": "Mumbai",
+        "Frequency": "92.7 FM",
+        "Language": "Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/big-fm-5001.png",
+        "st_url": "http://sc-bb.1.fm:8017/",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "91.1 FM Radio City",
+        "City": "Mumbai",
+        "Frequency": "91.1 FM",
+        "Language": "Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/radiocity9911.jpg",
+        "st_url": "http://prclive1.listenon.in:9960/;",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Air Rainbow 801 MW in Pune",
+        "City": "Mumbai",
+        "Frequency": "801 MW",
+        "Language": "Hindi,Marathi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
+        "st_url": "http://51.15.208.163:8081/radio/fmrainbow/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "All India Radio Air Marathi 558 MW in Pune",
+        "City": "Mumbai",
+        "Frequency": "558 MW",
+        "Language": "Marathi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIRMarathi.jpg",
+        "st_url": "http://51.15.208.163:8081/radio/airmarathi/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Radio Selfie",
+        "City": "Jodhpur",
+        "Frequency": "90.8 FM",
+        "Language": "Hindi",
+        "st_img": "http://142.93.213.163/assets/image/radio/180/radio-selfie.png",
+        "st_url": "https://streams.radio.co/s69032f19e/listen",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Radio Vividh Bharati 102.1 FM in Jodhpur",
+        "City": "Jodhpur",
+        "Frequency": "102.1 FM",
+        "Language": "Hindi,Gujarathi,Marathi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/vividh-bharati-servic.jpg",
+        "st_url": "http://51.15.208.163:8081/radio/airjodhfm/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "BIG 92.7 FM in Jodhpur",
+        "City": "Jodhpur",
+        "Frequency": "92.7 FM",
+        "Language": "Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/big-fm-5001.png",
+        "st_url": "http://sc-bb.1.fm:8017/",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Red 93.5 FM in Jodhpur",
+        "City": "Jodhpur",
+        "Frequency": " 93.5 FM",
+        "Language": "Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/red-fm15.jpg",
+        "st_url": "http://14013.live.streamtheworld.com/CKYRFM_SC",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "All India Radio AIR Jodhpur 531 AM",
+        "City": "Jodhpur",
+        "Frequency": "531 AM",
+        "Language": "Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/air-jodhalpur.png",
+        "st_url": "http://51.15.208.163:8081/radio/airjodhpc/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Suryan FM 93.5",
+        "City": "Chennai",
+        "Frequency": "93.5 FM",
+        "Language": "Tamil,English",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/suryanradio.png",
+        "st_url": "http://163.172.165.94:8728/;stream.mp3",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Hello 106.4 FM",
+        "City": "Chennai",
+        "Frequency": "106.4 FM",
+        "Language": "Tamil",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/logo-hellofm.png",
+        "st_url": "http://163.172.165.94:8720/;stream.mp3",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Air Rainbow 103 FM in Coimbatore",
+        "City": "Chennai",
+        "Frequency": "103 FM",
+        "Language": "Tamil",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
+        "st_url": "http://51.15.208.163:8081/radio/AIRLSMP077/icecast.audio",
+        "type" : "Entertainment"
+    },
+{
+        "Id": 1,
+        "Station_name": "Radio Mirchi Tamil 98.3 FM in Chennai",
+        "City": "Chennai",
+        "Frequency": "98.3 FM",
+        "Language": "Tamil",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi11111.jpg",
+        "st_url": "http://163.172.165.94:8320/;stream.mp3",
+},
+      {
+        "Id": 1,
+        "Station_name": "All India Radio Air Akashvani 103.3 FM in Madurai",
+        "City": "Chennai",
+        "Frequency": "103.3 FM",
+        "Language": "Tamil,Hindi",
+        "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
+        "st_url": "http://51.15.208.163:8081/radio/air-akashvani/icecast.audio",
+        "type" : "Entertainment"
     }
-    
-    
 ]
+
+
+
+
+
