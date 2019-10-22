@@ -221,22 +221,12 @@
     },
 {
         "Id": 1,
-        "Station_name": "Air Rainbow 801 MW in Pune",
+        "Station_name": "Air Rainbow in Pune",
         "City": "Mumbai",
         "Frequency": "801 MW",
         "Language": "Hindi,Marathi",
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
         "st_url": "http://51.15.208.163:8081/radio/fmrainbow/icecast.audio",
-        "type" : "Entertainment"
-    },
-{
-        "Id": 1,
-        "Station_name": "All India Radio Air Marathi 558 MW in Pune",
-        "City": "Mumbai",
-        "Frequency": "558 MW",
-        "Language": "Marathi",
-        "st_img": "https://onlineradiofm.in/assets/image/radio/180/AIRMarathi.jpg",
-        "st_url": "http://51.15.208.163:8081/radio/airmarathi/icecast.audio",
         "type" : "Entertainment"
     },
 {
@@ -251,17 +241,17 @@
     },
 {
         "Id": 1,
-        "Station_name": "Radio Vividh Bharati 102.1 FM in Jodhpur",
+        "Station_name": "Radio Vividh in Jodhpur",
         "City": "Jodhpur",
         "Frequency": "102.1 FM",
-        "Language": "Hindi,Gujarathi,Marathi",
+        "Language": "Gujarathi,Marathi",
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/vividh-bharati-servic.jpg",
         "st_url": "http://51.15.208.163:8081/radio/airjodhfm/icecast.audio",
         "type" : "Entertainment"
     },
 {
         "Id": 1,
-        "Station_name": "BIG 92.7 FM in Jodhpur",
+        "Station_name": "BIG FM in Jodhpur",
         "City": "Jodhpur",
         "Frequency": "92.7 FM",
         "Language": "Hindi",
@@ -271,7 +261,7 @@
     },
 {
         "Id": 1,
-        "Station_name": "Red 93.5 FM in Jodhpur",
+        "Station_name": "Red FM Jodhpur",
         "City": "Jodhpur",
         "Frequency": " 93.5 FM",
         "Language": "Hindi",
@@ -281,7 +271,7 @@
     },
 {
         "Id": 1,
-        "Station_name": "All India Radio AIR Jodhpur 531 AM",
+        "Station_name": "AIR Jodhpur",
         "City": "Jodhpur",
         "Frequency": "531 AM",
         "Language": "Hindi",
@@ -311,7 +301,7 @@
     },
 {
         "Id": 1,
-        "Station_name": "Air Rainbow 103 FM in Coimbatore",
+        "Station_name": "Air Coimbatore",
         "City": "Chennai",
         "Frequency": "103 FM",
         "Language": "Tamil",
@@ -321,7 +311,7 @@
     },
 {
         "Id": 1,
-        "Station_name": "Radio Mirchi Tamil 98.3 FM in Chennai",
+        "Station_name": "Radio Mirchi Chennai",
         "City": "Chennai",
         "Frequency": "98.3 FM",
         "Language": "Tamil",
@@ -331,7 +321,7 @@
 },
       {
         "Id": 1,
-        "Station_name": "All India Radio Air Akashvani 103.3 FM in Madurai",
+        "Station_name": "Air Akashvani Madurai",
         "City": "Chennai",
         "Frequency": "103.3 FM",
         "Language": "Tamil,Hindi",
