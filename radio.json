@@ -1,14 +1,4 @@
 [   
-     {
-        "Id": 1,
-        "Station_name": "Radio mirchi",
-        "City": "Mumbai",
-        "Frequency": "98.3 FM",
-        "Language": "Hindi",
-        "st_img": "http://media.radiomirchi.com/onlinestation/banners/MeethiMirchi668.jpg",
-        "st_url": "http://peridot.streamguys.com:7150/Mirchi",
-        "type" : "Entertimement"
-    },
     {
         "Id": 2,
         "Station_name": "Kokila radio",
@@ -164,7 +154,7 @@
         "Station_name": "93.5 Red FM",
         "City": "Delhi",
         "Frequency": "93.5 FM",
-        "Language": "Hindi,Telugu,Kannada",
+        "Language": "Hindi,Kannada",
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/red-fm15.jpg",
         "st_url": "http://14013.live.streamtheworld.com/CKYRFM_SC",
         "type" : "Entertainment"
@@ -328,5 +318,15 @@
         "st_img": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.png",
         "st_url": "http://51.15.208.163:8081/radio/air-akashvani/icecast.audio",
         "type" : "Entertainment"
+    },
+       {
+        "Id": 1,
+        "Station_name": "Radio mirchi",
+        "City": "Mumbai",
+        "Frequency": "98.3 FM",
+        "Language": "Hindi",
+        "st_img": "http://media.radiomirchi.com/onlinestation/banners/MeethiMirchi668.jpg",
+        "st_url": "http://peridot.streamguys.com:7150/Mirchi",
+        "type" : "Entertimement"
     }
 ]
